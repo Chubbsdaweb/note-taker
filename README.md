@@ -19,4 +19,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 The application will be able to make new notes and display them on the left side of the application where they can be edited/deleted if needed.
 ## Project Status
 Project is: _incomplete_ 
+## Deployed 
+on heroku https://git.heroku.com/peaceful-brushlands-53356.git
+and here https://chubbsdaweb.github.io/note-taker/
 
